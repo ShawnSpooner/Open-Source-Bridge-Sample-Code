@@ -1,0 +1,37 @@
+mutable state is a liability when you start to get concurrent Martin O
+
+concentrate on scalability the constructions should work for small as well as large programs
+unify oo and fp
+
+better tools new collecions, package obs, name/default pa
+
+rams, specialized for faster generics
+
+named and defaults
+
+newTambe(size: Int = 100, load: Float = 0.5f)
+
+
+size = 20, load = 0.5f
+
+copy method allows copy with specified elements overridden, purely functional
+
+
+case class Tree[+T](elem: t, left: Tree[T], right: Tree[T]) =
+def copy[U] elem: U = this.elem,
+	left: Tree[U] = this.left,
+	right: Tree[U] = this.right) = branch(elem, left, right)
+	}
+	
+To Come
+
+Actors
+Transactions
+Join Patterns
+Stream processing
+Data Parrellel
+Better Analyses
+Alias Tracking - need to research
+
+Need to overcome the "Type Wall", need to match the type to the use case of the user
+x10, ppl, fortress use scala in their programs

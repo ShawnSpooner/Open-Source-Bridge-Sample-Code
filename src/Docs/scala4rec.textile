@@ -1,0 +1,43 @@
+h1.  Scala For Recovering Java Developers
+h2. Shawn Spooner
+h2. Software Engineer, Kryptiq
+
+
+h3. Scala ?
+
+Scala is a Object Oriented/Functional hybrid language that runs on the JVM.
+
+Why Should You be Interested in Scala
+
+*2X reduction in lines of code compared to Java
+*Byte code compatible with Java*
+*Type Inference
+*Semi Colon inference
+*Actor Based Concurrency
+*Expressive Syntax
+
+h3. Lets See Some Code already!
+
+*Ok sorry to keep you waiting
+
+
+h3. Functional Scala
+
+*Lists, Tuples, Higher Order Functions
+
+h3. Duck Typing in a Statically Typed Language?
+
+*Implicit Conversions
+*View Bounds
+
+h3. Calling All Actors
+
+*Why does concurrency matter
+*Why actors?
+
+h3.  Final
+
+Any questions, comments?
+
+@ShawnSpooner
+shawn@sssoftwarecreations.com

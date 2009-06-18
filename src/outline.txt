@@ -1,0 +1,16 @@
+Feeling a little down after typing one too many semi colons, somewhat aggravated at not being able to add that one glaringly obvious missing method to your favorite library, perhaps a bit baffled about that last concurrency bug. Come to my talk and learn how through the power of Scala we can add methods to existing Java libraries, drop the semicolons, simplify concurrent code through actors and immutable data, and just generally have more fun on the JVM.
+
+
+There are an unbelievably high number of good talks that it is hard to highlight just a few, but these are at the top of my list.
+
+    * "Building Scale Free Applications with Hadoop and Cascading." Hadoop is a really amazing piece of technology for Map-Reduce problems and I hope to learn more
+    * “Introduction to Lift.” A functional web framework using the Scala language and the MVC pattern, count me in.
+    * “Write your own Bayesian Classifier: An Introduction to Machine Learning.” This talk aims to take the mystery out of classifiers, hoping to learn more about machine learning.
+    * “Deploying to the Edge from CouchDB.” CouchDb just generally rocks as a scalable database, and Chris is an awesome presenter.
+    * “Your Shell History In The Cloud.” This just seems like a really cool idea.
+
+
+basic syntax overview
+word count example
+implicit conversion adding methods to libraries and changing types intelligently
+the actor model(shared nothing)
